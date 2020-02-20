@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "android_device_xiaomi_msm8998-common_chiron",
+    "target_path": "device/xiaomi/msm8998-common",
+    "branch": "dot-p"
+  },
+  {
+    "repository": "android_kernel_xiaomi_chiron",
+    "target_path": "kernel/xiaomi/msm8998",
+    "branch": "dot-p"
+  },
+  {
+    "repository": "vendor_xiaomi_chiron",
+    "target_path": "vendor/xiaomi",
+    "branch": "dot-p"
+  }
+]
